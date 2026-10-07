@@ -1,0 +1,24 @@
+{
+  "created_for": "Deus Robotics migration to Claude",
+  "created_date": "2026-10-07",
+  "files": [
+    "00_README.md",
+    "01_MASTER_WORKFLOW.md",
+    "02_EMAIL_AND_LINKEDIN.md",
+    "03_HUBSPOT_AND_ANTI_SPAM.md",
+    "04_PRODUCT_KNOWLEDGE.md",
+    "05_PRESENTATIONS_SUMMARY.md",
+    "06_GUARDRAILS.md",
+    "07_CLAUDE_OPERATING_INSTRUCTIONS.md"
+  ],
+  "uploaded_sources": [
+    "Deus_Apparel_Ecom_Sales_Playbook(1).pdf",
+    "Deus Robotics × Lands' End — Intro, Sept 30 2026.pptx",
+    "Rockstar Phase 1 kick off.pptx",
+    "Deus_Concept_Rockstar_2026-05-21.pptx",
+    "Rockstar Robotics vs ERP (1).pptx",
+    "Rockstar_Robotics_vs_ERP.pptx",
+    "Capelli Sport successful outreach example from current conversation"
+  ],
+  "new_operating_rule": "Minimum 14 days between direct outbound messages across email and LinkedIn; HubSpot must be checked before every outbound and updated the same day."
+}
